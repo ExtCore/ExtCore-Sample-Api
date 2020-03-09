@@ -1,4 +1,4 @@
-# ExtCore Framework 5.0.0 Sample API Web Application
+# ExtCore Framework 5.1.0 Sample API Web Application
 
 [![Join the chat at https://gitter.im/ExtCore/ExtCore](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ExtCore/ExtCore?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -22,7 +22,7 @@ add direct dependency to the main web application project instead, but it is not
 
 ### Other Samples
 
-* [Full-featured ExtCore 5.0.0 framework sample web application](https://github.com/ExtCore/ExtCore-Sample);
+* [Full-featured ExtCore 5.1.0 framework sample web application](https://github.com/ExtCore/ExtCore-Sample);
 * [ExtCore framework 5.0.0 sample simplest web application](https://github.com/ExtCore/ExtCore-Sample-Simplest);
 * [ExtCore framework 5.0.0 sample MVC web application](https://github.com/ExtCore/ExtCore-Sample-Mvc);
 * [ExtCore framework 5.0.0 sample web application that uses file storage](https://github.com/ExtCore/ExtCore-Sample-FileStorage);
@@ -34,7 +34,7 @@ add direct dependency to the main web application project instead, but it is not
 * [ExtCore framework 5.0.0 sample web application that registers a service inside the extension](https://github.com/ExtCore/ExtCore-Sample-Service);
 * [ExtCore framework 5.0.0 sample web application that uses the events](https://github.com/ExtCore/ExtCore-Sample-Events).
 
-You can also download our [ready to use full-featured sample](http://extcore.net/files/ExtCore-Sample-5.0.0.zip).
+You can also download our [ready to use full-featured sample](http://extcore.net/files/ExtCore-Sample-5.1.0.zip).
 It contains everything you need to run ExtCore-based web application from Visual Studio 2019, including SQLite
 database with the test data.
 
